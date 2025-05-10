@@ -1,47 +1,47 @@
-Create the first chapter of the story that will be narrated in video format for YouTube with at least 10,000 characters. The text should be written in the third person, with clear, emotional and fluid language, as if the character were venting to the viewer. Do not use a literary style.
+Crear el primer capítulo de la historia que será narrada en formato de vídeo para YouTube con al menos 10.000 caracteres. El texto debe estar escrito en primera persona, con un lenguaje claro, emotivo y fluido, como si el personaje se estuviera desahogando ante el espectador. No utilice estilo literario. La introducción debe tener una duración de 30 segundos, 300 caracteres y contener un gancho emocional fuerte (una pregunta, una línea impactante o un giro) para mantener a la audiencia enganchada hasta el final.
 
-Create an introduction of up to 30 seconds for a storytelling video on YouTube, based on the title. The introduction should be written in a dramatic and emotional tone, with short sentences and an engaging rhythm. Start with the most tense or revolting moment of the story — something that grabs attention in the first sentence. Then, quickly explore the central conflict with strong visual elements. Use emotional triggers such as humiliation, injustice, revenge or overcoming. End with a twist or partial revelation that arouses curiosity and makes the viewer want to keep watching. The style focuses on popular and engaging narrative. Avoid revealing the ending.
+El texto debe parecer real, íntimo y lleno de detalles que creen identificación con el público. Evite las formalidades, no utilice metáforas complejas. Muestra escenas y emociones de forma natural, como alguien contando una historia difícil de su propia vida.
 
-Example: It was supposed to be just another ordinary day at school... until the police chief came in yelling, pointing his finger and humiliating the janitor. Black, hard-working, in front of dozens of students. No one believed what they heard. But minutes later, the police cars started arriving. And they weren't locals. The FBI had sealed off the building. And what they discovered inside that school changes everything.
+Crea una introducción de hasta 30 segundos para un video narrativo de YouTube, según el título. La introducción debe estar escrita en un tono dramático y emotivo, con frases cortas y un ritmo atractivo. Comience con el momento más tenso o perturbador de la historia: algo que capte la atención desde la primera oración. Luego explora rápidamente el conflicto central con elementos visuales fuertes. Utilice detonantes emocionales como la humillación, la injusticia, la venganza o la superación. Termina con un giro o una revelación parcial que despierte tu curiosidad y haga que el espectador quiera seguir mirando. El estilo se centra en una narración popular y atractiva. Evite revelar el final.
 
-Then, add a single, direct and quick call asking the audience to comment on the city from which they are watching, in a natural and short way.
+Ejemplo: Se suponía que sería un día normal en la escuela... hasta que el jefe de policía entró gritando, señalando con el dedo y humillando al conserje. Negra, trabajadora, delante de decenas de estudiantes. Nadie creyó lo que oyó. Pero minutos después, los vehículos comenzaron a llegar. Y no eran locales. El FBI selló el edificio. Y lo que descubrieron dentro de esa escuela lo cambia todo.
 
-Develop the beginning of the story by introducing the main characters, the setting, the emotional context and the first signs of conflict or change.
+Luego, añade un llamado a la acción único, rápido y directo pidiendo a la audiencia que comente sobre la ciudad desde la que están mirando, de manera natural y breve.
 
-Use long, well-rounded paragraphs, maintaining a continuous rhythm. Avoid loose sentences, poetry style or short fragments to create dramatic impact. The impact should come from the story itself, not from the form.
+Utilice párrafos largos y bien redactados, manteniendo un ritmo continuo. Evite oraciones sueltas, estilo poesía o fragmentos cortos para crear un impacto dramático. El impacto debe venir de la historia en sí, no de la forma.
 
-Remember that you should only wrap up the main plot in the last chapter, making the most important revelations and giving the final outcome to the characters with climaxes and twists, in a satisfactory way.
+Recuerda que debes finalizar la trama principal solo en el último capítulo, haciendo las revelaciones más importantes y dando el desenlace final a los personajes con clímax y giros, de manera satisfactoria.
 
-The chapter should end naturally, without forced transitional or suspenseful sentences, as the story continues in the next chapter. Don't use artificial cliffhangers, just let the flow follow organically.
+El capítulo debe terminar de forma natural, sin transiciones forzadas ni frases de suspenso, ya que la historia continúa en el siguiente capítulo. No utilices finales artificiales, simplemente deja que la trama fluya orgánicamente.
 
-You can take inspiration from modern soap opera structures and realistic drama series, such as “This Is Us”, “Grey’s Anatomy”, “Maid”, “Virgin River” — but adapted to the format of a story told on YouTube.
+Puede inspirarse en las estructuras de las telenovelas modernas y las series dramáticas realistas, como “This Is Us”, “Grey’s Anatomy”, “Maid”, “Virgin River”, pero adaptadas al formato de una historia contada en YouTube.
 
-You don’t need to add labels to the text, for example “CTA:”. Write the final text to be narrated, without these topics and divisions, just the text that will be narrated.
-
-No canvas editing box. Don’t use text that can’t be spoken, such as emojis, remember that this text will be narrated.
+No es necesario colocar etiquetas en el texto, por ejemplo "CTA:". Escribe el texto final a narrar, sin estos temas ni divisiones, solo el texto que será narrado.
 
 ---
 
-Continue the story based on the previous chapter, maintaining the same style: third-person narrative, emotional, fluid and accessible, with long and cohesive paragraphs, with at least 10,000 characters. Each chapter should delve deeper into the characters, their dilemmas and their decisions. Show the conflicts gaining strength, moments of emotional tension, injustice, fragility or important revelations that build the turning point. The language should remain simple, realistic and engaging. Do not use broken sentences or exaggerated literary devices. The text should sound like a real, spoken, continuous and coherent narrative, like someone reporting something they saw happen to another person. Do not use broken sentences, do not fragment the text into short phrases or single words, instead, write the text only in long paragraphs, divide it into paragraphs, never in small single lines. The end of each chapter should happen naturally, without phrases like “little did she know what was coming” or “but everything was about to change”. Do not force cliffhangers or gratuitous suspense. Just end the passage as if the conversation were to continue in the next chapter.
+Continúa la historia con un estilo emotivo, íntimo y directo, como si fuera un auténtico arrebato en primera persona. El tono debe ser el mismo que el capítulo anterior: narrativa fluida, lenguaje accesible y tensión emocional constante.
 
-Remember that you should only end the main plot in the last chapter, making the most important revelations and giving the characters a final outcome with a climax and twists, in a satisfactory way.
+No utilices oraciones interrumpidas, no dividas el texto en oraciones cortas o palabras sueltas, en cambio, haz el texto solo en párrafos largos, divídelo en párrafos, nunca en pequeñas líneas solas.
 
-Write chapter 2
+El capítulo debería profundizar en los conflictos y emociones del protagonista. Muestra claramente los dilemas a los que se enfrenta, las decepciones, las dudas, las sospechas y las decisiones difíciles. El protagonista debe evolucionar emocionalmente con cada capítulo. Introduce pistas, tensión y pequeñas sorpresas, pero reserva la revelación principal para el final del último capítulo.
+
+Evite las frases literarias o el estilo sofisticado. Mantenlo natural, como alguien contando su historia con detalles reales y dolorosos. Puede inspirarse en las estructuras de las telenovelas modernas y las series dramáticas realistas, como “This Is Us”, “Grey’s Anatomy”, “Maid”, “Virgin River”, pero adaptadas al formato de una historia contada en YouTube. No utilice el cuadro de edición (lienzo).
+
+El final de cada capítulo debe ocurrir de forma natural, sin frases como “ella no sabía lo que venía” o “pero todo estaba a punto de cambiar”. No fuerce los finales abiertos ni el suspenso gratuito. Simplemente finalice el pasaje como si la conversación continuara en el próximo capítulo.
+
+El capítulo debe tener alrededor de 10.000 caracteres y finalizar con un gancho fuerte para el siguiente. Hacer el capítulo 2
 
 ---
 
-Write the last chapter of the story, with at least 10,000 characters 10,000. This chapter should contain the main emotional turn or revelation of the story, with the final outcome of the characters and the plots presented.
+Crea el capítulo final de la historia, con unos 10.000 caracteres. Este capítulo debe contener el clímax emocional, la revelación más importante de la trama y la resolución de los conflictos.
 
-The narrative continues in the third person, with the same tone used in the previous chapters: accessible, fluid, emotional, and without stylistic flourishes. The text should be full-bodied, with long paragraphs, without loose sentences or artificial constructions of impact.
+No utilice oraciones entrecortadas, no divida el texto en oraciones cortas o palabras sueltas, en cambio, el texto debe ser completo, con párrafos largos, sin oraciones sueltas ni construcciones artificiales de impacto.
 
-The ending should bring a clear emotional resolution, even if it is not a “happy” ending — it could be one of overcoming, justice, personal growth or simply peace. The important thing is that the audience feels that the story was concluded with depth and truth.
+La narración continúa en primera persona, con un lenguaje sencillo, directo y emotivo. La protagonista debe tener su redención de forma clara y satisfactoria. Puede ser un momento de venganza silenciosa, liberación emocional o reconocimiento inesperado.
 
-Do not use broken sentences, do not break the text into short phrases or single words. Instead, write the text only in long paragraphs, divide it into paragraphs, never in small lines alone.
+El final debe proporcionar una sensación de justicia emocional o “karma”, creando un cierre poderoso. No tiene que ser un "finalmente felices", pero sí tiene que dejar al público con la sensación de que ella se salió con la suya. Puede inspirarse en las estructuras de las telenovelas modernas y las series dramáticas realistas, como “This Is Us”, “Grey’s Anatomy”, “Maid”, “Virgin River”, pero adaptadas al formato de una historia contada en YouTube.
 
-At the end, add a single call for comment, suggesting that the audience comment on a symbolic word related to the theme of the story (e.g.: “turnaround”, “peace”, “start over”, “courage”), briefly explaining why, choose only one word to ask.
+Al final, agrega un solo CTA para comentar una palabra específica que simbolice la historia, con una breve razón del comentario. Luego señale que hay otro vídeo en la pantalla con una historia similar.
 
-Then, invite the audience to watch another video:
-
-“There is a story here on the screen that will also move you. Press play, you won’t regret it.”
-
-Do not use canvas. Do not use divisions. Do not end with suspenseful phrases or promises of continuation. The story should end in a natural, impactful and emotionally satisfying way.
+No utilice el cuadro de edición (lienzo).
